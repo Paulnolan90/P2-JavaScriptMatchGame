@@ -35,11 +35,11 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name:'Neymar',
-            img: 'assets/images/Neymar.jpg'
+            img: 'assets/images/Debruyne.jpg'
         },
         {
             name:'Neymar',
-            img: 'assets/images/Neymar.jpg'
+            img: 'assets/images/Debruyne.jpg'
         },
         {
             name:'Rashford',
@@ -63,14 +63,15 @@ cardArray.sort(()=> 0.5 - Math.random())
     function createBoard() {
         for (let i = 0; i < cardArray.length; i++) {
             var card = document.createElement('img')  // creates an element for each card above
-            card.setAttribute('src', 'assets/images/Blank.jpg') // sets the attribute of his elemnt to have src and then points to the image
+            card.setAttribute('src', 'assets/images/Blank.jpg') // sets the attribute of this elemnt to have src and then points to the image
             card.setAttribute('data-id', i) 
             card.addEventListener('click', flipcard)
             grid.appendChild(card)
         }
     }
 
-//check for matches
+//check for matches code
+
   function checkForMatch () {
     var cards = document.querySelectorAll('img')
     const optionOneId = cardsChosenId[0]
@@ -84,7 +85,7 @@ cardArray.sort(()=> 0.5 - Math.random())
     else {
         cards[optionOneId].setAttribute('src', 'assets/images/Blank.jpg')
         cards[optionTwoId].setAttribute('src', 'assets/images/Blank.jpg')
-        alert('Have another go!')
+        
     }
     cardsChosen = []
     cardsChosenId = []

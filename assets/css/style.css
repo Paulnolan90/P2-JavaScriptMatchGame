@@ -1,6 +1,39 @@
+body{
+    background-color: #060F38;
+}
+h1{
+    color: rgb(248, 249, 249);
+}
 .grid {
     display: flex;
     flex-wrap: wrap;
     height: 300px;
-    width: 400px;
+    width: 900px;
+}
+
+#flag-outer{
+    height: 1000px;
+    width: 100%;
+    overflow: hidden;
+    background: url('../images/ChampionsBackground.jpg') no-repeat ;
+   
+}
+
+.form-section {
+    clear: left;
+    background-size: cover;
+    background-image: url(../images/scoutsswitz.JPG);
+    background-position: center;
+    height: 950px;
+}
+
+.signup-form {
+    margin: 150px 10% 0 0;
+    color: #fcfcfb;
+    background-color: rgba(246, 241, 241, 0.6);
+    max-width: 1000px;
+    max-height: 1000px;
+    position: absolute;
+    left: 30%;
+    padding: 20px;
 }
