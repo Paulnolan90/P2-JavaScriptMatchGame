@@ -3,64 +3,69 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
         {
             name:'Haaland',
-            img: 'images/Haaland.jpg'
+            img: 'assetsimages/Haaland.jpg'
         },
         {
             name:'Haaland',
-            img: 'images/Haaland.jpg'
+            img: 'assetsimages/Haaland.jpg'
         },
         {
             name:'Mbappe',
-            img: 'images/Mbappe.jpg'
+            img: 'assetsimages/Mbappe.jpg'
         },
         {
             name:'Mbappe',
-            img: 'images/Mbappe.jpg'
+            img: 'assetsimages/Mbappe.jpg'
         },
         {
             name:'Messi',
-            img: 'images/Messi.jpg'
+            img: 'assetsimages/Messi.jpg'
         },
         {
             name:'Messi',
-            img: 'images/Messi.jpg'
+            img: 'assetsimages/Messi.jpg'
         },
         {
             name:'Ronaldo',
-            img: 'images/Ronaldo.jpg'
+            img: 'assetsimages/Ronaldo.jpg'
         },
         {
             name:'Ronaldo',
-            img: 'images/Ronaldo.jpg'
+            img: 'assetsimages/Ronaldo.jpg'
         },
         {
             name:'Neymar',
-            img: 'images/Neymar.jpg'
+            img: 'assetsimages/Neymar.jpg'
         },
         {
             name:'Neymar',
-            img: 'images/Neymar.jpg'
+            img: 'assetsimages/Neymar.jpg'
         },
         {
             name:'Rashford',
-            img: 'images/Rashford.jpg'
+            img: 'assetsimages/Rashford.jpg'
         },
         {
             name:'Rashford',
-            img: 'images/Rashford.jpg'
+            img: 'assetsimages/Rashford.jpg'
         }
     ]
+
+cardArray.sort(()=> 0.5 - Math.random())
+
 //creating board picking out element in the HTML file grid
   const grid = document.querySelector('.grid')
+  const resultDisplay = document.querySelector('#result')
   var cardsChosen =[]
   var cardsChosenId = []
+  var cardsWon =[]
 
     function createBoard() {
         for (let i = 0; i < cardArray.length; i++) {
             var card = document.createElement('img')  // creates an element for each card above
             card.setAttribute('src', 'assets/images/Blank.jpg') // sets the attribute of his elemnt to have src and then points to the image
             card.setAttribute('data-id', i) 
-            // card.addEventListener('click', flipcard)
+            card.addEventListener('click', flipcard)
             grid.appendChild(card)
         }
     }
@@ -74,7 +79,19 @@ document.addEventListener('DOMContentLoaded', () => {
         alert('You found a match')
         cards[optionOneId].setAttribute('src', 'assets/images/red.jpg')
         cards[optionTwoId].setAttribute('src', 'assets/images/red.jpg')
+        cardsWon.push(cardsChosen)
     }
+    else {
+        cards[optionOneId].setAttribute('src', 'assets/images/Blank.jpg')
+        cards[optionTwoId].setAttribute('src', 'assets/images/Blank.jpg')
+        alert('Have another go!')
+    }
+    cardsChosen = []
+    cardsChosenId = []
+    resultDisplay.textContent = cardsWon.length
+    if (cardsWon.length === cardArray.length/2){  //checks if the cards won array is equal to 6 and stops the game.
+        resultDisplay.textContent = 'Congratulations! you found them all'
+    } 
   }
 
 
