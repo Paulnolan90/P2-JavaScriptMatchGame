@@ -78,8 +78,8 @@ cardArray.sort(()=> 0.5 - Math.random())
     const optionTwoId = cardsChosenId[1]
     if (cardsChosen[0] === cardsChosen[1]){
         alert('You found a match')
-        cards[optionOneId].setAttribute('src', 'assets/images/red.jpg')
-        cards[optionTwoId].setAttribute('src', 'assets/images/red.jpg')
+        cards[optionOneId].setAttribute('src', 'assets/images/NailedIt.jpg')
+        cards[optionTwoId].setAttribute('src', 'assets/images/NailedIt.jpg')
         cardsWon.push(cardsChosen)
     }
     else {
