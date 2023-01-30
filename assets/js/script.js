@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name:'Neymar',
-            img: 'assetsimages/Neymar.jpg'
+            img: 'assets/images/Neymar.jpg'
         },
         {
             name:'Neymar',
