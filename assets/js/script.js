@@ -3,35 +3,35 @@ document.addEventListener('DOMContentLoaded', () => {
   const cardArray = [
         {
             name:'Haaland',
-            img: 'assetsimages/Haaland.jpg'
+            img: 'assets/images/Haaland.jpg'
         },
         {
             name:'Haaland',
-            img: 'assetsimages/Haaland.jpg'
+            img: 'assets/images/Haaland.jpg'
         },
         {
             name:'Mbappe',
-            img: 'assetsimages/Mbappe.jpg'
+            img: 'assets/images/Mbappe.jpg'
         },
         {
             name:'Mbappe',
-            img: 'assetsimages/Mbappe.jpg'
+            img: 'assets/images/Mbappe.jpg'
         },
         {
             name:'Messi',
-            img: 'assetsimages/Messi.jpg'
+            img: 'assets/images/Messi.jpg'
         },
         {
             name:'Messi',
-            img: 'assetsimages/Messi.jpg'
+            img: 'assets/images/Messi.jpg'
         },
         {
             name:'Ronaldo',
-            img: 'assetsimages/Ronaldo.jpg'
+            img: 'assets/images/Ronaldo.jpg'
         },
         {
             name:'Ronaldo',
-            img: 'assetsimages/Ronaldo.jpg'
+            img: 'assets/images/Ronaldo.jpg'
         },
         {
             name:'Neymar',
@@ -39,15 +39,15 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name:'Neymar',
-            img: 'assetsimages/Neymar.jpg'
+            img: 'assets/images/Neymar.jpg'
         },
         {
             name:'Rashford',
-            img: 'assetsimages/Rashford.jpg'
+            img: 'assets/images/Rashford.jpg'
         },
         {
             name:'Rashford',
-            img: 'assetsimages/Rashford.jpg'
+            img: 'assets/images/Rashford.jpg'
         }
     ]
 
