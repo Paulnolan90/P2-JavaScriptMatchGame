@@ -11,43 +11,43 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name:'Mbappe',
-            img: 'assets/images/Mbappe.jpg'
+            img: 'assets/images/MbappeUp.jpg'
         },
         {
             name:'Mbappe',
-            img: 'assets/images/Mbappe.jpg'
+            img: 'assets/images/MbappeUp.jpg'
         },
         {
             name:'Messi',
-            img: 'assets/images/Messi.jpg'
+            img: 'assets/images/MessiUp.jpg'
         },
         {
             name:'Messi',
-            img: 'assets/images/Messi.jpg'
+            img: 'assets/images/MessiUp.jpg'
         },
         {
             name:'Ronaldo',
-            img: 'assets/images/Ronaldo.jpg'
+            img: 'assets/images/RonaldoUp.jpg'
         },
         {
             name:'Ronaldo',
-            img: 'assets/images/Ronaldo.jpg'
+            img: 'assets/images/RonaldoUp.jpg'
         },
         {
             name:'Neymar',
-            img: 'assets/images/Debruyne.jpg'
+            img: 'assets/images/DebruyneUp.jpg'
         },
         {
             name:'Neymar',
-            img: 'assets/images/Debruyne.jpg'
+            img: 'assets/images/DebruyneUp.jpg'
         },
         {
             name:'Rashford',
-            img: 'assets/images/Rashford.jpg'
+            img: 'assets/images/RashfordUp.jpg'
         },
         {
             name:'Rashford',
-            img: 'assets/images/Rashford.jpg'
+            img: 'assets/images/RashfordUp.jpg'
         }
     ]
 
