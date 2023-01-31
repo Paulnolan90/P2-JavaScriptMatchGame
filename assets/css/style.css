@@ -38,3 +38,13 @@ h1{
     text-align: center;
     padding: 20px;
 }
+
+.image-container {
+    width: 200px;
+    height: 200px;
+    background-image: url('../images/logo.png') ;
+    height: 19vh;
+    margin: 0 auto;
+  }
+
+
