@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
-    //images for cards
-  const cardArray = [
+    
+  const cardArray = [ // creates an array of images giving them an index of 0-11
         {
             name:'Haaland',
             img: 'assets/images/HaalandUp.jpg'
@@ -19,11 +19,11 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             name:'Messi',
-            img: 'assets/images/MessiUp.jpg'
+            img: 'assets/images/Messi.jpg'
         },
         {
             name:'Messi',
-            img: 'assets/images/MessiUp.jpg'
+            img: 'assets/images/Messi.jpg'
         },
         {
             name:'Ronaldo',
@@ -54,6 +54,7 @@ document.addEventListener('DOMContentLoaded', () => {
 cardArray.sort(()=> 0.5 - Math.random())
 
 //creating board picking out element in the HTML file grid
+
   const grid = document.querySelector('.grid')
   const resultDisplay = document.querySelector('#result')
   var cardsChosen =[]
@@ -77,12 +78,12 @@ cardArray.sort(()=> 0.5 - Math.random())
     const optionOneId = cardsChosenId[0]
     const optionTwoId = cardsChosenId[1]
     if (cardsChosen[0] === cardsChosen[1]){
-        alert('You found a match')
-        cards[optionOneId].setAttribute('src', 'assets/images/NailedIt.jpg')
-        cards[optionTwoId].setAttribute('src', 'assets/images/NailedIt.jpg')
+        alert('You found a match')  //when a match is found this changes the images so they dont go back to turned over
+        cards[optionOneId].setAttribute('src', 'assets/images/red.jpg')
+        cards[optionTwoId].setAttribute('src', 'assets/images/red.jpg')
         cardsWon.push(cardsChosen)
     }
-    else {
+    else {  // the cards dont match so they go back to being blank
         cards[optionOneId].setAttribute('src', 'assets/images/Blank.jpg')
         cards[optionTwoId].setAttribute('src', 'assets/images/Blank.jpg')
         
@@ -91,7 +92,10 @@ cardArray.sort(()=> 0.5 - Math.random())
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length
     if (cardsWon.length === cardArray.length/2){  //checks if the cards won array is equal to 6 and stops the game.
-        resultDisplay.textContent = 'Congratulations! you found them all'
+        resultDisplay.textContent = 'You have won the Champions League!!! ' //displays text when cardWon runs.
+        setTimeout(function(){  //this function restarts the game after 5 seconds once complete.
+            window.location.reload();
+         }, 5000); 
     } 
   }
 
