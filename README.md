@@ -116,6 +116,10 @@ How to:
 ### Content:
 - Javascript content based on this YouTube video tutorial: [Learn JavaScript by Building 7 Games - Full Course](https://bit.ly/3D45TUl) 
 from [freeCodeCamp](https://bit.ly/3bZtVE8) 
+
+- Javascript reload page after 5 seconds: [How to Reload Page after Specific Time (5 seconds) in JavaScript](https://www.codexworld.com/how-to/reload-page-after-specific-time-5-seconds-in-javascript/)
+
+- How to get rid off errors in Java testing site: [Arrow function syntax error](https://stackoverflow.com/questions/42866159/arrow-function-syntax-is-only-available-in-es6-use-esversion-6)
  
 ### Media:
 - Champions league logo [Free image website](https://freebiesupply.com/logos/uefa-champions-league-logo/)
