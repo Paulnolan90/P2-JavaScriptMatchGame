@@ -67,22 +67,25 @@ The deployed website was also tested using Chrome, Edge and Firefox as well as o
         - I had fun! :)
 
 - ### Validator testing:
-    - HTML - [W3C Validator](https://bit.ly/31qLrPD) - passed
-    - CSS - [(Jigsaw) validator](https://bit.ly/3F29Zg1) - passed
-    - Javascript - [JSHint](https://jshint.com/) - passed
+    - HTML - [W3C Validator](https://bit.ly/31qLrPD) 
+    - CSS - [(Jigsaw) validator](https://bit.ly/3F29Zg1) 
+    - Javascript - [JSHint](https://jshint.com/) 
+    
+    All passed.
+
 - ### Additional testing:
-    the website/game was run successfully on the following browsers:
+    the game was run successfully on the following browsers:
 
     - Google Chrome
     - Opera
     - Microsoft Edge
 
     
-    All tests passed. Results can be viewed [here](docs/readme_items/website_test_plan.pdf)
+    
 
 - ### Bugs
-    - Game grid layout displayed differently at certain mobile screen sizes (iPhone 5/SE in particular). To overcome this issue I adjusted the width percentage for the grid images.
-    - Restart game button was being pushed below the bottom line of the game section at larger screen sizes (above 1400px). To correct this I adjusted the bottom margin of the game grid.
+    - After finishing the excercise I had realised that I didnt deploy the code institute template, the site still fully works so I cannot see if this will have any effect.
+    - 
 
 ## Deployment
 ### Github Pages
