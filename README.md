@@ -51,9 +51,9 @@ Kick-Off here [here.](https://8000-paulnolan90-p2footballm-1xm5pzsmyop.ws-eu85.g
     - GitHub
 ## Testing
 
-I used the Chrome Developer Tool to simulate the different viewport sizes for desktop and laptop views, tablet views and mobile views. I used this throughout the development process as well as for testing the website once it was deployed to GitHub Pages.
+Throughout the development and testing stages, I utilized the Chrome Developer Tool to mimic various viewport sizes, including desktop, laptop, tablet, and mobile views, to ensure the website's responsiveness and compatibility.
 
-The deployed website was also tested using Chrome, Edge and Firefox as well as on mobile (using Chrome for Android)
+The deployed website underwent testing on Chrome, Edge, Firefox desktop browsers, as well as on mobile devices using the Chrome for Android browser.
 
 - ### User stories' testing:
     - I would like to play a simple game to test my memory by matching up pairs of images
@@ -87,14 +87,11 @@ The deployed website was also tested using Chrome, Edge and Firefox as well as o
     </details>
 
 - ### Additional testing:
-    the game was run successfully on the following browsers:
+    The game was efficiently executed on the following web browsers:
 
     - Google Chrome
     - Opera
     - Microsoft Edge
-
-    
-    
 
 - ### Bugs
     - After finishing the excercise I had realised that I didnt deploy the code institute template, the site still fully works so I cannot see if this will have any effect.
