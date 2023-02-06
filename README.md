@@ -85,7 +85,7 @@ The deployed website was also tested using Chrome, Edge and Firefox as well as o
 
 - ### Bugs
     - After finishing the excercise I had realised that I didnt deploy the code institute template, the site still fully works so I cannot see if this will have any effect.
-    - 
+    - /*jshint esversion: 6 */ added this to the script.js file to get rid of errors when tested on JSHint 
 
 ## Deployment
 ### Github Pages
