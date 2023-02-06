@@ -11,9 +11,9 @@ Play the game [here.](https://8000-paulnolan90-p2footballm-1xm5pzsmyop.ws-eu85.g
 
 - ### Executed:
     - The main section of the screen layout is dedicated to the game play area.
-    - background image to suit color of the game and represent champions league trophy.
-    - Score(goals) show over game.
-    - Game automatically restarts when completed (delay of   3 seconds implemented).
+    - I have altered the background picture to match the game's color scheme and depict the UEFA Champions League trophy.
+    - Score(matches) show above game.
+    - Game automatically restarts when completed (delay of 5 seconds implemented).
 
 
 ## User Experience (UX) 
@@ -27,20 +27,9 @@ Play the game [here.](https://8000-paulnolan90-p2footballm-1xm5pzsmyop.ws-eu85.g
 
 - ### Design
     - ### Colour scheme:
-        - Colours used on the game to match the blue, yellow and red of the official Pokemon colour scheme
+        - The colors I selected were chosen to align with the colors of the UEFA Champions League to maintain consistency with the overall theme of the game.
     - ### Typography:
         - Google Fonts - [ArchitectsDaughter](https://bit.ly/3EwQP1N)
-
-
-## User Experience (UX) 
-
-- ### User Stories
-    - I want to engage in a memory test game by pairing up identical images.
-    - I expect feedback to confirm each matching pair made and the matched images to change image so I dont play the same card twice.
-    - I expect to view my score. 
-    - I expect confirmation that the game is completed.
-    - I expect to be able to play on different devices (laptop, mobile and tablet).
-    - I anticipate receiving confirmation for each successful match and for the matched images to be displayed.
 
 ## Technologies used
 
