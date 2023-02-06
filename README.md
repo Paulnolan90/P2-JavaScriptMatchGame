@@ -43,7 +43,7 @@ Kick-Off here [here.](https://8000-paulnolan90-p2footballm-1xm5pzsmyop.ws-eu85.g
     - CSS 
     - HTML
 
-- ### Frameworks, libraries and programmes:
+- ### Frameworks and Tools:
     - Google Fonts - [Roboto](https://fonts.google.com/specimen/Roboto?preview.text=robot&preview.text_type=custom)
     - GIMP image editing software
     - Paint -  to edit image files
@@ -71,12 +71,20 @@ The deployed website was also tested using Chrome, Edge and Firefox as well as o
     - I expect to have fun! :)
         - I had fun! :)
 
-- ### Validator testing:
-    - HTML - [W3C Validator](https://bit.ly/31qLrPD) 
-    - CSS - [(Jigsaw) validator](https://bit.ly/3F29Zg1) 
-    - Javascript - [JSHint](https://jshint.com/) 
-    
-    All passed.
+### HTML Validation 
+<details><summary>Home</summary>
+    <img src="docs/images/htmlCheck.jpg">
+    </details>
+
+### CSS Validation 
+<details><summary>CSS</summary>
+    <img src="docs/images/cssCheck.jpg.jpg">
+    </details>
+
+### JS Validation 
+<details><summary>JS</summary>
+    <img src="docs/images/jsChecker.jpg.jpg">
+    </details>
 
 - ### Additional testing:
     the game was run successfully on the following browsers:
