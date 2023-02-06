@@ -78,12 +78,12 @@ The deployed website was also tested using Chrome, Edge and Firefox as well as o
 
 ### CSS Validation 
 <details><summary>CSS</summary>
-    <img src="docs/images/cssCheck.jpg.jpg">
+    <img src="docs/images/cssCheck.jpg">
     </details>
 
 ### JS Validation 
 <details><summary>JS</summary>
-    <img src="docs/images/jsChecker.jpg.jpg">
+    <img src="docs/images/jsChecker.jpg">
     </details>
 
 - ### Additional testing:
