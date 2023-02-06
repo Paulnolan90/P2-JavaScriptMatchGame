@@ -114,8 +114,7 @@ How to:
 ## Credits
 
 ### Content:
-- Javascript content based on this YouTube video tutorial: [Learn JavaScript by Building 7 Games - Full Course](https://bit.ly/3D45TUl) 
-from [freeCodeCamp](https://bit.ly/3bZtVE8) 
+- The skills acquired to build the game were got through this tutorial video.: [Learn JavaScript by Building 7 Games with Ania Kubów](https://www.youtube.com/watch?v=lhNdUVh3qCc&t=115s) 
 
 - Javascript reload page after 5 seconds: [How to Reload Page after Specific Time (5 seconds) in JavaScript](https://www.codexworld.com/how-to/reload-page-after-specific-time-5-seconds-in-javascript/)
 
