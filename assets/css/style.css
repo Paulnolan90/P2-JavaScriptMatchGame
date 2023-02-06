@@ -14,23 +14,16 @@ img {
     width: 900px;
 }
 
-#flag-outer{
-    height: 1000px;
-    width: 100%;
-    overflow: hidden;
-    background: url('../images/ChampionsBackground.png') no-repeat center center ;
-   
-}
 
-.form-section {
+.game-section {
     clear: left;
     background-size: cover;
-    background-image: url(../images/ChampionsBackground.png);
+    background-image: url('../images/ChampionsBackground.png');
     background-position: center;
     height: 950px;
 }
 
-.signup-form {
+.gameHeader {
     left: 50%;
     transform: translate(-50%, 0);
     color: #fcfcfb;
@@ -42,7 +35,7 @@ img {
     padding: 2px;
 }
 
-.image-container {
+.logo-container {
     width: 200px;
     height: 200px;
     background-image: url('../images/logo.png') ;
@@ -50,7 +43,7 @@ img {
   }
 
 
-  @media only screen and (max-width: 480px) {
+  @media only screen and (max-width: 920px) {
     img {
         height: 125px;
         width: 128px;
@@ -60,11 +53,11 @@ img {
         height: 800px;
         width: 390px;
     }
-    .signup-form {
+    .gameHeader {
         max-height: 575px; 
         padding: 0px;
     }
-    .image-container {
+    .logo-container {
         width: 100px;
         height: 100px;
         background-image: url('../images/logo2.png')
