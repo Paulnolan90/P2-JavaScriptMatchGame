@@ -122,6 +122,11 @@ How to:
  
 ### Media:
 - Champions league logo [Free image website](https://freebiesupply.com/logos/uefa-champions-league-logo/)
-- Ronaldo Image [Ronadlo website](https://www.liveabout.com/cristiano-ronaldo-3557502)
-
+- Messi Image [Messi ](https://www.google.com/search?q=messi+barcelona&rlz=1C1FKPE_enIE977IE977&sxsrf=AJOqlzWQRrjaakux6r4EG_7WQ8V1sLSFoQ:1675684168636&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjAhYL96YD9AhWsSkEAHaajDYMQ_AUoAXoECAIQAw&biw=2048&bih=1034&dpr=1.25#imgrc=9P1NVGtrzisd6M)
+- Ronaldo Image [Ronaldo ](https://www.liveabout.com/cristiano-ronaldo-3557502)
+- De Bruyne Image [De Bruyne ](https://www.thetimes.co.uk/article/kevin-de-bruyne-reads-the-game-better-than-anyone-thats-why-he-has-so-much-time-g3vkts03n)
+- Rashford Image [Rashford](https://www.beinsports.com/en/premier-league/news/rashford-can-improve-to-be-england-and-man-1/1620934)
+- Neymar Image [Neymar](https://www.skysports.com/football/news/11820/12275119/neymar-and-kylian-mbappe-paris-saint-germain-president-nasser-al-khelaifi-says-pair-have-no-reason-to-leave)
+- Mbappe Image [Mbappe](https://www.espn.com/soccer/uefa-champions-league/story/4594650/kylian-mbappe-boosts-psggives-real-madrid-glimpse-of-future-with-champions-league-heroics)
+- Haaland Image [Haaland](https://www.bundesliga.com/en/bundesliga/news/erling-haaland-s-record-breaking-career-in-numbers-borussia-dortmund-norway-10065)
     
