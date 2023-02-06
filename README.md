@@ -1,11 +1,13 @@
-<h1 align="center">Champions League memory Game!</h1>
+<h1 align="center">Champions League Memory Game!</h1>
 <h2 align="center">The world's greatest club competition</h2>
 
 This is a memory match game based on Players from the UEFA Champions League. The player challenges their memory by pairing up cards featuring hidden champions from the league by flipping over the cards on the board. The game ends when all champions have been successfully matched.
 
-Play the game [here.](https://8000-paulnolan90-p2footballm-1xm5pzsmyop.ws-eu85.gitpod.io/)
+
 
 <h4 align="center"><img src="./assets/images/bigImage.png" alt="site image"></h4>
+
+Kick-Off here [here.](https://8000-paulnolan90-p2footballm-1xm5pzsmyop.ws-eu85.gitpod.io/)
 
 ## Features
 
@@ -15,6 +17,9 @@ Play the game [here.](https://8000-paulnolan90-p2footballm-1xm5pzsmyop.ws-eu85.g
     - Score(matches) show above game.
     - Game automatically restarts when completed (delay of 5 seconds implemented).
 
+- ### Possible Future features:
+    - Sound - Improve the user experience by adding audio enhancements.
+    - Share your score - Establish a score-sharing link to attract new users and facilitate sharing with friends.
 
 ## User Experience (UX) 
 - ### User Stories
@@ -22,14 +27,14 @@ Play the game [here.](https://8000-paulnolan90-p2footballm-1xm5pzsmyop.ws-eu85.g
     - Feedback to confirm each matching pair made and the matched images to change image so I dont play the same card twice.
     - To view my score. 
     - Confirmation that the game is completed.
-    - To be able to play on different devices (laptop, mobile and tablet).
+    - Compatibility with multiple devices such as laptops, mobile phones, and tablets for gaming.
     - I anticipate receiving confirmation for each successful match and for the matched images to be displayed.
 
 - ### Design
     - ### Colour scheme:
         - The colors I selected were chosen to align with the colors of the UEFA Champions League to maintain consistency with the overall theme of the game.
     - ### Typography:
-        - Google Fonts - [ArchitectsDaughter](https://bit.ly/3EwQP1N)
+        - Google Fonts - [Roboto](https://fonts.google.com/specimen/Roboto?preview.text=robot&preview.text_type=custom)
 
 ## Technologies used
 
@@ -39,7 +44,7 @@ Play the game [here.](https://8000-paulnolan90-p2footballm-1xm5pzsmyop.ws-eu85.g
     - HTML
 
 - ### Frameworks, libraries and programmes:
-    - Google Fonts - font used [ArchitectsDaughter](https://bit.ly/3EwQP1N)
+    - Google Fonts - [Roboto](https://fonts.google.com/specimen/Roboto?preview.text=robot&preview.text_type=custom)
     - GIMP image editing software
     - Paint -  to edit image files
     - Git

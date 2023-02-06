@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet');
 body{
     background-color: #060F38;
+    font-family: Roboto, sans-serif;
 }
 h1{
     color: #060F38;
