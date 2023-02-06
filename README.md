@@ -86,11 +86,16 @@ The deployed website was also tested using Chrome, Edge and Firefox as well as o
 
 ## Deployment
 ### Github Pages
-- Site deployed to Github Pages using the following process:
-    - Click the 'Settings' tab in the GitHub repository
-    - Select 'Pages' in the left hand menu
-    - Under the heading of 'Source', select 'Master Branch' from the drop-down menu
-    - Click 'Save'
+The website was deployed using Github pages.
+
+How to: 
+
+  - In Github login and go to the correct repo. go into its settings.
+  - Once in settings go to the "pages" page.
+  - Select "Deploy from Branch".
+  - Select "Main" and "root" in the branch options below.
+  - After a few minutes you will get a message saying "Your site is live at https://paulnolan90.github.io/p1-scoutinggroup/"
+
 
 
 ## Credits
@@ -100,7 +105,7 @@ The deployed website was also tested using Chrome, Edge and Firefox as well as o
 from [freeCodeCamp](https://bit.ly/3bZtVE8) 
  
 ### Media:
-- Champions league logo [Free image webiste](https://freebiesupply.com/logos/uefa-champions-league-logo/)
+- Champions league logo [Free image website](https://freebiesupply.com/logos/uefa-champions-league-logo/)
 - Ronaldo Image [Ronadlo website](https://www.liveabout.com/cristiano-ronaldo-3557502)
 
     
