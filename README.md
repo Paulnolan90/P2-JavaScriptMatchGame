@@ -53,8 +53,6 @@ Kick-Off here [here.](https://8000-paulnolan90-p2footballm-1xm5pzsmyop.ws-eu85.g
 
 Throughout the development and testing stages, I utilized the Chrome Developer Tool to mimic various viewport sizes, including desktop, laptop, tablet, and mobile views, to ensure the website's responsiveness and compatibility.
 
-The deployed website underwent testing on Chrome, Edge, Firefox desktop browsers, as well as on mobile devices using the Chrome for Android browser.
-
 - ### User stories' testing:
     - I would like to play a simple game to test my memory by matching up pairs of images
         - Memory match game uses Pokemon images to test the users memory - hidden images are arranged at random and change position each time the game is loaded
