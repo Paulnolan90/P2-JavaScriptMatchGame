@@ -54,20 +54,19 @@ Kick-Off here [here.](https://8000-paulnolan90-p2footballm-1xm5pzsmyop.ws-eu85.g
 Throughout the development and testing stages, I utilized the Chrome Developer Tool to mimic various viewport sizes, including desktop, laptop, tablet, and mobile views, to ensure the website's responsiveness and compatibility.
 
 - ### User stories' testing:
-    - I would like to play a simple game to test my memory by matching up pairs of images
-        - Memory match game uses Pokemon images to test the users memory - hidden images are arranged at random and change position each time the game is loaded
-    - I expect feedback to confirm each matching pair made and the matched images remain on show
-        - sound effects play at game load stage, with each card turn-over, with each non-successful and successful matching, and successful game completion. Matched image pairs remain on show
-    - I expect to see my score
-        - score is displayed below the game grid
-    - I expect confirmation that I have completed the game successfully
+    - To engage in a memory test game by pairing up identical images.
+        - The game uses pairs of images of famous footballers which the user has to match, the images are hidden at random and change when the page is refreshed.
+    - Feedback to confirm each matching pair made and the matched images to change image so I don’t play the same card twice.
+        - Every match that is made is presented with an alert from the browser that must be clicked before another attempt is made, the score will also go up by 1 and the player card will stay turned towards the user showing the player.
+    - Compatibility with multiple devices such as laptops, mobile phones, and tablets for gaming.
+        - Works and tested on multiple devices using different browsers(opera, edge & chrome).
+    - I anticipate receiving confirmation for each successful match and for the matched images to be displayed.
         - on successful game completion, a sound is played and a pop-up modal appears with a congratulaions message
-    - I would like the option to restart/replay the game 
-        - a button appears below the game grid giving the player the option to restart. This presents a pop-up with a yes/no confirmation option. There is also a replay button within the game completion pop-up modal
-    - I expect to be able to play on different devices (laptop, mobile and tablet)
-        - the game was tested, and works, on desktop/laptop, tablet and mobile
-    - I expect to have fun! :)
-        - I had fun! :)
+    - To view my score. 
+        - The score is shown clearly above the game and goes up by 1 every match that is made.
+    - Confirmation that the game is completed.
+        - The score changes message to say that you have won and after 5 seconds the game restarts.
+    
 
 ### HTML Validation 
 <details><summary>Home</summary>
