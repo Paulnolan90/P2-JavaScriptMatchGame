@@ -25,10 +25,10 @@ Kick-Off here [here.](https://8000-paulnolan90-p2footballm-1xm5pzsmyop.ws-eu85.g
 - ### User Stories
     - To engage in a memory test game by pairing up identical images.
     - Feedback to confirm each matching pair made and the matched images to change image so I dont play the same card twice.
-    - To view my score. 
-    - Confirmation that the game is completed.
     - Compatibility with multiple devices such as laptops, mobile phones, and tablets for gaming.
     - I anticipate receiving confirmation for each successful match and for the matched images to be displayed.
+    - To view my score.
+    - Confirmation that the game is completed.
 
 - ### Design
     - ### Colour scheme:
