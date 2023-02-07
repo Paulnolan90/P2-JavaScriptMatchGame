@@ -28,6 +28,7 @@ Kick-Off here [here.](https://8000-paulnolan90-p2footballm-1xm5pzsmyop.ws-eu85.g
     - I anticipate receiving confirmation for each successful match and for the matched images to be displayed.
     - To view my score.
     - Confirmation that the game is completed.
+    - The game to restart once completed so I can play again.
 
 - ### Design
     - ### Colour scheme:
@@ -62,8 +63,9 @@ Throughout the development and testing stages, I utilized the Chrome Developer T
     - To view my score. 
         - The score is shown clearly above the game and goes up by 1 every match that is made.
     - Confirmation that the game is completed.
-        - The score changes message to say that you have won and after 5 seconds the game restarts.
-    
+        - The score changes message to say that you have won!
+    - The game to restart once completed so I can play again.
+        - After the game is completed, the page refreshes after 5 seconds.
 
 ### HTML Validation 
 <details><summary>Home</summary>
