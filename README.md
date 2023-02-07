@@ -24,7 +24,6 @@ Kick-Off here [here.](https://8000-paulnolan90-p2footballm-1xm5pzsmyop.ws-eu85.g
 ## User Experience (UX) 
 - ### User Stories
     - To engage in a memory test game by pairing up identical images.
-    - Feedback to confirm each matching pair made and the matched images to change image so I dont play the same card twice.
     - Compatibility with multiple devices such as laptops, mobile phones, and tablets for gaming.
     - I anticipate receiving confirmation for each successful match and for the matched images to be displayed.
     - To view my score.
@@ -56,12 +55,10 @@ Throughout the development and testing stages, I utilized the Chrome Developer T
 - ### User stories testing:
     - To engage in a memory test game by pairing up identical images.
         - The game uses pairs of images of famous footballers which the user has to match, the images are hidden at random and change when the page is refreshed.
-    - Feedback to confirm each matching pair made and the matched images to change image so I don’t play the same card twice.
-        - Every match that is made is presented with an alert from the browser that must be clicked before another attempt is made, the score will also go up by 1 and the player card will stay turned towards the user showing the player.
     - Compatibility with multiple devices such as laptops, mobile phones, and tablets for gaming.
         - Works and tested on multiple devices using different browsers(opera, edge & chrome).
     - I anticipate receiving confirmation for each successful match and for the matched images to be displayed.
-        - on successful game completion, a sound is played and a pop-up modal appears with a congratulaions message
+        - Every match that is made is presented with an alert from the browser that must be clicked before another attempt is made, the score will also go up by 1 and the player card will stay turned towards the user showing the player.
     - To view my score. 
         - The score is shown clearly above the game and goes up by 1 every match that is made.
     - Confirmation that the game is completed.
