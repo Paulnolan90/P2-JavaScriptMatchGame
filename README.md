@@ -53,7 +53,7 @@ Kick-Off here [here.](https://8000-paulnolan90-p2footballm-1xm5pzsmyop.ws-eu85.g
 
 Throughout the development and testing stages, I utilized the Chrome Developer Tool to mimic various viewport sizes, including desktop, laptop, tablet, and mobile views, to ensure the website's responsiveness and compatibility.
 
-- ### User stories' testing:
+- ### User stories testing:
     - To engage in a memory test game by pairing up identical images.
         - The game uses pairs of images of famous footballers which the user has to match, the images are hidden at random and change when the page is refreshed.
     - Feedback to confirm each matching pair made and the matched images to change image so I don’t play the same card twice.
