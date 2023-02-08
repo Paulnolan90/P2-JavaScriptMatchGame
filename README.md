@@ -103,7 +103,7 @@ How to:
   - Once in settings go to the "pages" page.
   - Select "Deploy from Branch".
   - Select "Main" and "root" in the branch options below.
-  - After a few minutes you will get a message saying "Your site is live at https://paulnolan90.github.io/p1-scoutinggroup/"
+  - After a few minutes you will get a message saying "Your site is live at https://paulnolan90.github.io/P2-JavaScriptMatchGame/"
 
 
 
